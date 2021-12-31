@@ -2,6 +2,8 @@
 
 A simple script to perform a cloud backup (as added in Quest OS Build 35) for all supported Quest apps _now_. May be useful when you're planning to replace or upgrade your hardware and you want to make sure the cloud copy of your savegames and files is fully up-to-date.
 
+Of course there is no guarantee on things being backed up properly; make sure to check the cloud backup status after running the script to make sure it did what you wanted!
+
 ![screenshot](screenshot.png)
 
 ## Notes
