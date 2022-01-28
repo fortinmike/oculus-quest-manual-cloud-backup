@@ -19,5 +19,5 @@ No backups will be created for:
 1. Download and install [node.js LTS](https://nodejs.org/en/) if you don't have it installed already
 2. Download and install the Android [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
 3. Enable USB Debugging on your Quest, connect it and allow access in VR (this is a bit more involved but there are instructions for this online)
-4. Open a terminal/cmd, `cd` to this directory and run: `node index.js` (you will see backup progress as it is performed)
+4. Open a terminal/cmd, `cd` to the directory in which you extracted the source files (this directory) and run: `node index.js` (you will see backup progress as it is performed)
 5. Check the cloud backup status of your apps and games here: https://secure.oculus.com/my/cloud-backup/
